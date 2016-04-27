@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Files_D\\Sites\\GoogleNdk\\android-ndk\\hack042\\app\\build\\intermediates\\res\\merged\\debug\\layout\\poi_row.xml",
+        "source": "C:\\Files_D\\Sites\\GoogleNdk\\android-ndk\\hack042\\app\\src\\main\\res\\layout\\poi_row.xml"
+    },
+    {
+        "merged": "C:\\Files_D\\Sites\\GoogleNdk\\android-ndk\\hack042\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Files_D\\Sites\\GoogleNdk\\android-ndk\\hack042\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Files_D\\Sites\\GoogleNdk\\android-ndk\\hack042\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_poi.xml",
+        "source": "C:\\Files_D\\Sites\\GoogleNdk\\android-ndk\\hack042\\app\\src\\main\\res\\layout\\add_poi.xml"
+    }
+]

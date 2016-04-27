@@ -1,0 +1,2 @@
+CHANGED,C:\Files_D\Sites\GoogleNdk\android-ndk\hack042\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Files_D\Sites\GoogleNdk\android-ndk\hack042\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\manning\androidhacks\hack042\db\DatabaseHelper$override.class
