@@ -4,4 +4,4 @@
 
  The Demo of  NDK about  Sqlite  
 
-The Source Code is From  the book of "50 Android Hacks", I just ,** migrate from Eclipse  to  AndroidStudio  **
+The Source Code is From  the book of "50 Android Hacks", I just  ** migrate from Eclipse  to  AndroidStudio  **
